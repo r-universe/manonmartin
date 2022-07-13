@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PepsNMR"]
+	path = PepsNMR
+	url = https://github.com/manonmartin/pepsnmr
+	shallow = true
+	registered = true
